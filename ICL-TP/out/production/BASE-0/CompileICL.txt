@@ -1,0 +1,6 @@
+
+set arg1=%1
+
+java -cp "C:\Users\ASUS\OneDrive\Ambiente de Trabalho\ICL\BASE-0\ICLCompiler.java" %arg1%
+
+java -jar jasmin.jar out.j
